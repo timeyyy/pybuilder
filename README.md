@@ -84,8 +84,7 @@ In addition, a few common plugins are provided:
 * [filter_resources](http://pybuilder.github.io/documentation/plugins.html#Filteringfiles) - Filters files by replacing tokens with configuration values.
 * [source_distribution](http://pybuilder.github.io/documentation/plugins.html#Creatingasourcedistribution) - Bundles a source distribution for shipping.
 
-External plugins:
-* [pybuilder_aws_plugin](https://github.com/immobilienscout24/pybuilder_aws_plugin) - handle AWS functionality
+External plugins can be found on the [Wiki](https://github.com/pybuilder/pybuilder/wiki/Community-Plugins):
 
 ## Release Notes
 
